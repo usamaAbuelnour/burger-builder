@@ -1,0 +1,13 @@
+.contactData{
+    width: 80%;
+    text-align: center;
+    background-color: white;
+    border: solid 2px #f2f2f2;
+    box-shadow: 0 3px 4px #000;
+    position: absolute;
+    top: 20%;
+    z-index: 250;
+    left: calc(50% - calc(0.5 * 80%));
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

@@ -1,0 +1,15 @@
+.logo{
+    background-color: white;
+    padding: 8px; 
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.logo img{
+    height: 100%;
+} 
+ 
+@media (max-width: 499px){
+    .logo{
+        margin-bottom: 30px;
+    }
+}

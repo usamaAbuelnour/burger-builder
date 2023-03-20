@@ -1,0 +1,18 @@
+.checkoutSummary{
+    position: relative;
+    top: 50px;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.buttons{
+    position: relative;
+    top: 30px;
+}
+
+
+/* @media (min-width: 600px) {
+    .checkoutSummary{
+        width: 500px;
+    }
+} */
