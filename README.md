@@ -25,6 +25,6 @@ Enter your data and hit order
 
 ![alt text](./src/assets/screenshots/6.PNG)
 
-Congrats your order is submitted, and you can check your orders from orders tab
+Congrats!! your order is submitted, and you can check your orders from orders tab
 
 ![alt text](./src/assets/screenshots/7.PNG)
