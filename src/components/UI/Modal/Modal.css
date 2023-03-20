@@ -7,22 +7,20 @@
     box-shadow: 1px 1px 1px black;
     padding: 16px;
     left: 15%;
-    top: 30%;
+    top: 15%;
     box-sizing: border-box;
     transition: all 0.3s ease-out;
-}
-.modal p:nth-of-type(2){
-    width: max-content;
+    display: flex;
+    flex-direction: column;
 }
 
+.buttonGroup {
+    display: flex;
+    justify-content: space-around;
+}
 
-@media (max-width: 500px){
+@media (max-width: 767px){
     .modal{
-        top: 15%;
-    }
-    .modal h4{
-        position: relative;
-        top: -30px;
-        left: 70px;
+        font-size: 0.95rem;
     }
 }

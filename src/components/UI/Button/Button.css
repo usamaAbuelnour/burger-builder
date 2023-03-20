@@ -35,3 +35,10 @@
     position: absolute;
     left: 1px;
 }
+
+@media (max-width: 767px) {
+    .switch {
+        bottom: 1px;
+
+    }
+}
